@@ -2,6 +2,10 @@
 
 Power BI analysis of activity data for three individuals (Ben, Bob, Bill) across 4 weeks, demonstrating data transformation and standardization techniques.
 
+## Project Goal
+
+The primary objective was to standardize three different data structures (text, CSV, Excel) and merge them into a unified dataset suitable for comparative analysis across individuals and time periods.
+
 ## Repository Structure
 
 ```
@@ -53,4 +57,4 @@ cycling-data/
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/activity-dashboard.png)
+![Dashboard Screenshot](screenshots/final-dashboard.png)
