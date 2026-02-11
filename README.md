@@ -19,9 +19,12 @@ cycling-data/
 │   └── activity-dashboard.pbit    # Power BI template
 ├── analysis/
 │   └── transformation_log.md      # Detailed transformation steps
-├── screenshots/                   # Dashboard previews
+├── screenshots/
+│   └── final-dashboard.png        # Dashboard preview
 ├── archive/
 │   └── cycles.zip                 # Original data archive
+├── .gitignore                     # Git exclusions
+├── LICENSE                        # MIT License
 └── README.md                      # This file
 ```
 
