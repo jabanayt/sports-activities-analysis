@@ -1,5 +1,7 @@
 *.pbix
 *.pbit
+!powerbi/*.pbix
+!powerbi/*.pbit
 .DS_Store
 Thumbs.db
 *.tmp
